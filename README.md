@@ -1,6 +1,6 @@
 Single Layer Neural Network implemented with NumPy with Gradient Descent.
 
-//ToDo: Run prediction and calculate test and val accuracy
+//ToDo: display incorrect samples
 
 To be added:
 Momentum Descent
